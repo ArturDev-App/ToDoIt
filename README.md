@@ -14,16 +14,39 @@ Una aplicación de notas/tareas con autenticación de Google y sincronización e
 ## 📱 **Demo de la aplicación**
 
 ### 🔐 Inicio de sesión
-<img src="assets/screenlogin.gif" width="300" alt="Login con Google"/>
+<img src="assets/screenlogin.gif" width="200" alt="Login con Google"/>
 
 ### 📝 Crear nueva nota
-![Crear nota](assets/Crear_nota.gif)
+<img src="assets/Crear_nota.gif" width="200" alt="Crear nota"/>
 
 ### ✏️ Actualizar nota existente
-![Actualizar nota](assets/actualizacion_de_nota.gif)
+<img src="assets/actualizacion_de_nota.gif" width="200" alt="Actualizar nota"/>
 
 ### 🗑️ Eliminar nota con swipe
-![Eliminar nota](assets/eliminar_nota.gif)
+<img src="assets/eliminar_nota.gif" width="200" alt="Eliminar nota"/>
+🎬 Vista completa de funcionalidades
+<table align="center">
+<tr>
+<td align="center">
+  <img src="assets/screenlogin.gif" width="250"/><br/>
+  <b>Login con Google</b>
+</td>
+<td align="center">
+  <img src="assets/Crear_nota.gif" width="250"/><br/>
+  <b>Crear Nota</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="assets/actualizacion_de_nota.gif" width="250"/><br/>
+  <b>Editar Nota</b>
+</td>
+<td align="center">
+  <img src="assets/eliminar_nota.gif" width="250"/><br/>
+  <b>Eliminar Nota</b>
+</td>
+</tr>
+</table>
 
 ## 🚀 Características
 
