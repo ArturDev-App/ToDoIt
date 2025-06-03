@@ -14,16 +14,16 @@ Una aplicación de notas/tareas con autenticación de Google y sincronización e
 ## 📱 **Demo de la aplicación**
 
 ### 🔐 Inicio de sesión
-![Login](screenlogin.gif)
+![Login](assets/screenlogin.gif)
 
 ### 📝 Crear nueva nota
-![Crear nota](Crear_nota.gif)
+![Crear nota](assets/Crear_nota.gif)
 
 ### ✏️ Actualizar nota existente
-![Actualizar nota](actualizacion_de_nota.gif)
+![Actualizar nota](assets/actualizacion_de_nota.gif)
 
 ### 🗑️ Eliminar nota con swipe
-![Eliminar nota](eliminar_nota.gif)
+![Eliminar nota](assets/eliminar_nota.gif)
 
 ## 🚀 Características
 
