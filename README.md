@@ -46,7 +46,6 @@ Una aplicación de notas/tareas con autenticación de Google y sincronización e
 - ✅ Prioridades (Alta, Media, Baja)
 - ✅ Categorías/Etiquetas
 - ✅ Interfaz moderna con Jetpack Compose
-- ✅ Swipe to delete (deslizar para eliminar)
 
 ### 🚧 **En desarrollo:**
 - 🔨 Notificaciones programables
