@@ -12,18 +12,6 @@ Una aplicación de notas/tareas con autenticación de Google y sincronización e
 - La interfaz y funciones pueden cambiar en futuras versiones
 
 ## 📱 **Demo de la aplicación**
-
-### 🔐 Inicio de sesión
-<img src="assets/screenlogin.gif" width="200" alt="Login con Google"/>
-
-### 📝 Crear nueva nota
-<img src="assets/Crear_nota.gif" width="200" alt="Crear nota"/>
-
-### ✏️ Actualizar nota existente
-<img src="assets/actualizacion_de_nota.gif" width="200" alt="Actualizar nota"/>
-
-### 🗑️ Eliminar nota con swipe
-<img src="assets/eliminar_nota.gif" width="200" alt="Eliminar nota"/>
 🎬 Vista completa de funcionalidades
 <table align="center">
 <tr>
