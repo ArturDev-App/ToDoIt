@@ -11,6 +11,20 @@ Una aplicación de notas/tareas con autenticación de Google y sincronización e
 - Algunas funcionalidades están en fase de prueba
 - La interfaz y funciones pueden cambiar en futuras versiones
 
+## 📱 **Demo de la aplicación**
+
+### 🔐 Inicio de sesión
+![Login](screenlogin.gif)
+
+### 📝 Crear nueva nota
+![Crear nota](Crear_nota.gif)
+
+### ✏️ Actualizar nota existente
+![Actualizar nota](actualizacion_de_nota.gif)
+
+### 🗑️ Eliminar nota con swipe
+![Eliminar nota](eliminar_nota.gif)
+
 ## 🚀 Características
 
 ### ✅ **Implementadas:**
@@ -48,7 +62,7 @@ Una aplicación de notas/tareas con autenticación de Google y sincronización e
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/ToDOIT.git
+   git clone https://github.com/ArturDev-App/ToDOIT.git
    cd ToDOIT
    ```
 
@@ -105,10 +119,6 @@ app/
 - **Kotlin** - Lenguaje de programación principal
 - **MVVM Architecture** - Patrón de arquitectura
 
-## 📱 Capturas de pantalla
-
-*[Las capturas de pantalla se agregarán en futuras actualizaciones]*
-
 ## 🐛 Problemas conocidos
 
 - [ ] Algunas animaciones pueden presentar lag en dispositivos antiguos
@@ -153,8 +163,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 📞 Contacto
 
-**Desarrollador**: Arturo Manzanares
-**Email**: artfa22@icloud.com
+**Desarrollador**: ArturDev-App
 **GitHub**: [@ArturDev-App](https://github.com/ArturDev-App)
 
 ---
