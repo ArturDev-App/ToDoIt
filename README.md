@@ -14,7 +14,7 @@ Una aplicación de notas/tareas con autenticación de Google y sincronización e
 ## 📱 **Demo de la aplicación**
 
 ### 🔐 Inicio de sesión
-![Login](assets/screenlogin.gif)
+<img src="screenlogin.gif" width="300" alt="Login con Google"/>
 
 ### 📝 Crear nueva nota
 ![Crear nota](assets/Crear_nota.gif)
