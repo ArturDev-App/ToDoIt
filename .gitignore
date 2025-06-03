@@ -1,0 +1,26 @@
+# Archivos y carpetas de Android Studio
+*.iml
+.idea/
+.DS_Store
+
+# Archivos locales y sensibles
+local.properties
+google-services.json
+.env
+.keystore
+
+# Archivos de compilación
+.gradle/
+build/
+*/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Configuraciones específicas de IntelliJ/Android Studio
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml

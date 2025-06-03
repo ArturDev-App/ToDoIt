@@ -1,0 +1,29 @@
+# Archivos de compilación y build
+/build/
+*.iml
+.gradle/
+local.properties
+.idea/
+
+# Carpetas de build en módulos
+*/build/
+
+# Archivos generados por Android Studio
+*.log
+*.class
+*.jar
+*.apk
+*.dex
+
+# Firebase config (¡esto es clave!)
+google-services.json
+firebase-debug.log
+
+# Archivos sensibles
+.env
+.keystore
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
